@@ -42,8 +42,6 @@ Another common operation is to assign a set of initial capabilities based on the
   </Signature>
   <Source>
   //import sailpoint.object.Identity;
-	import org.apache.commons.logging.LogFactory;
-  import org.apache.commons.logging.Log;
   //import sailpoint.object.Application;
   //import sailpoint.object.ResourceObject;
 
